@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Getting-Started-With-Django-Rest-Framework
-=======
+
 ## STEPS FOLLOWED
 
 #1 Install django
@@ -104,6 +103,8 @@
     ]
 ```
 #23 Run `python manage.py makemigrations`
+
 #24 Run `python manage.py migrate`
+
 #25 Run `python manage.py runserver` and validate https://localhost:8000/customer.
->>>>>>> 9324e3a (added all files)
+
