@@ -2,13 +2,19 @@
 
 ## STEPS FOLLOWED
 
-#1 Install django
-#2 create dir sample_django_rest
-#3 run `django-admin startproject sample_django_rest`
-#4 cd sample_django_project\Scripts
-#4 run command `activate`
-#5 run `python manage.py startapp taskApp`
-#6 cd taskApp
+#1 Install django  
+
+#2 create dir sample_django_rest  
+
+#3 run `django-admin startproject sample_django_rest`  
+
+#4 cd sample_django_project\Scripts  
+
+#4 run command `activate`  
+
+#5 run `python manage.py startapp taskApp`  
+
+#6 cd taskApp  
 
 #7 create urls.py with below code
 ```python
